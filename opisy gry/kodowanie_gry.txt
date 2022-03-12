@@ -1,0 +1,27 @@
+Od wersji v0.0.0a:
+    Id planszy jest określana w taki sposób, że przyjmuje postać trzycyfrowej liczby dziesiętnej, przy czym jeśli są 0 na początku takiej liczby, to one są widoczne
+
+    Id pola jest określana w taki sposób, że przyjmuje postać pięciocyfrowej liczby dziesiętnej, gdzie pierwsze trzy cyfry to id planszy, do której przynależą, a pozostałe dwie lokalne id pola na planszy, do której przynależą
+
+    Id karty jest określana w taki sposób, że przyjmuje postać ośmiocyfrowej liczby dziesiętnej, gdzie pierwsze trzy cyfry to id planszy, do której przynależą, czwarta cyfra określa typ karty, następne dwie określają kolor karty, ostatnie cyfry są określane zależnie od typu karty
+
+        Ostatnie trzy cyfry id karty typu property_card to lokalne id pola, do którego dana karta jest przypisana
+        Ostatnie trzy cyfry id karty typu chance_card to pozycja karty w niepomieszanym stosie kart szansy danego koloru
+
+        Typy kart:
+            0-property_card
+            1-chance_card
+
+        Kolory kart typu property_card:
+            00-yellow
+            01-red
+            02-blue
+            03-orange
+            04-green
+            05-violet
+            06-brown
+            07-black
+
+        Kolory kart typu chance_card:
+            00-blue
+            01-red
