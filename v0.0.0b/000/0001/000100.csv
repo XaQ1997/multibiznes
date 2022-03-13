@@ -1,0 +1,17 @@
+card_id;card_description;card_actions
+00010000;Wychodzisz wolny z więzienia \nKartę należy zachować do wykorzystania lub sprzedania;{}
+00010001;Płacisz za kartę 20$ lub ciągniesz SZANSĘ z drugiego zestawu;{}
+00010002;Bank wypłaci ci należne 7% odsetek od kapitałów-otrzymujesz 50$;{}
+00010003;Otrzymujesz roczną rentę w wysokości 200$;{}
+00010004;Wracasz na START;{}
+00010005;Płacisz składkę ubezpieczeniową w wysokości 20$;{}
+00010006;Z magazynu, w którym kupujesz, otrzymujesz rabat w wysokości 20$;{}
+00010007;Idziesz do więzienia. \nNie przechodzisz przez START. \nNie otrzymujesz 400$;{}
+00010008;Bank omylił się na twoją korzyść, otrzymujesz 400$;{}
+00010009;Masz urodziny, otrzymujesz od każdego gracza po 20$;{}
+00010010;Płacisz na budowę szpitala 400$;{}
+00010011;Otrzymujesz zwrot nadpłaconego podatku dochodowego 40$;{}
+00010012;Wracasz do Wiednia;{}
+00010013;Zająłeś II miejsce w konkursie piekności, otrzymujesz z banku 200$;{}
+00010014;Płacisz koszty leczenia w wysokości 20$;{}
+00010015;Otrzymujesz w spadku 200$;{}
