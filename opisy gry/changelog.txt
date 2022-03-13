@@ -10,3 +10,7 @@ Wersja v0.0.0b:
 Wersja v0.0.1a:
 - Ciąg dalszy tworzenia systemu tworzenia raportów przebiegu gry
 - Wprowadzono możliwość podania customowej ścieżki zapisu raportów przebiegu gry
+
+Wersja v0.0.1b:
+- Zamieniono nadpisywanie raportów dopisywaniem do raportów z przebiegu gry
+- Ciąg dalszy tworzenia systemu tworzenia raportów przebiegu gry
