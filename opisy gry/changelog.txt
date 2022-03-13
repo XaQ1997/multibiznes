@@ -4,7 +4,7 @@ Wersja v0.0.0a:
 - Dodano kości
 
 Wersja v0.0.0b:
-- Dodano zwalnianie kart własności, gdy sie bankrutuje
+- Dodano zwalnianie kart własności, gdy się bankrutuje
 - Częściowo dodano raportowanie przebiegu gry
 
 Wersja v0.1.0a:

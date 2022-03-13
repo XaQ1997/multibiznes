@@ -289,6 +289,10 @@ class TextInterface:
                             if self.boards[board].cards['property_cards'][card].owners[owner]==self.players[turn[1]]:
                                 self.boards[board].cards['property_card'][card].del_owner(self.players[turn[1]])
 
+                self.log=open(f'{self.path}/{self.start_date}/log.txt', 'w')
+                self.log.write(f'<{datetime.datetime.now()}> \tGracz {self.players[turn[1]].name} zbunkrutował')
+                self.log.close()
+
                 self.players.pop(turn[1])
                 self.Game.players.pop(turn[1])
 
