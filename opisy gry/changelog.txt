@@ -6,3 +6,7 @@ Wersja v0.0.0a:
 Wersja v0.0.0b:
 - Dodano zwalnianie kart własności, gdy sie bankrutuje
 - Częściowo dodano raportowanie przebiegu gry
+
+Wersja v0.1.0a:
+- Ciąg dalszy tworzenia systemu tworzenia raportów przebiegu gry
+- Wprowadzono możliwość podania customowej ścieżki zapisu raportów przebiegu gry
