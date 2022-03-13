@@ -1,0 +1,8 @@
+Wersja v0.0.0a:
+- Dodano interfejs tekstowy
+- Dodano planszę o id "000" włącznie z kartami własności, kartami szansy (na razie bez implementacji akcji tychże kart)
+- Dodano kości
+
+Wersja v0.0.0b:
+- Dodano zwalnianie kart własności, gdy sie bankrutuje
+- Częściowo dodano raportowanie przebiegu gry
