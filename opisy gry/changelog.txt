@@ -14,3 +14,8 @@ Wersja v0.0.1a:
 Wersja v0.0.1b:
 - Zamieniono nadpisywanie raportów dopisywaniem do raportów z przebiegu gry
 - Ciąg dalszy tworzenia systemu tworzenia raportów przebiegu gry
+
+Wersja v0.0.2a:
+- Poprawiono kod pod kątem trworzenia graczy i planszy (by można było uruchomić grę)
+- Tymszasowo usunięto zapis raportu self.path+'/rolls.txt'
+- Zmieniono sposób pokazywania pól na planszy (zamiast id teraz podaje nazwę pola)
