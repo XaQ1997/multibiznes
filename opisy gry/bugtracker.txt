@@ -1,0 +1,3 @@
+Wersja v0.0.2a:
+Błąd 0a0 <19 marca 2022 roku; 00:30> Gra się crashuje, gdy się wyrzuca dublet
+Błąd 0a1 <19 marca 2022 roku; 01:00> Akcje pól nie działają

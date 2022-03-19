@@ -19,3 +19,8 @@ Wersja v0.0.2a:
 - Poprawiono kod pod kątem trworzenia graczy i planszy (by można było uruchomić grę)
 - Tymszasowo usunięto zapis raportu self.path+'/rolls.txt'
 - Zmieniono sposób pokazywania pól na planszy (zamiast id teraz podaje nazwę pola)
+
+Wersja v0.0.3a:
+- Zmieniono sposób pokazywania pól na planszy (ponownie podaje id, choć nie zamiast nazwy pola)
+- Przywrócono zapis raportu self.path+'/rolls.txt'
+- Naprawiono błąd 0a0
