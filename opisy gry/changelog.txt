@@ -24,3 +24,8 @@ Wersja v0.0.3a:
 - Zmieniono sposób pokazywania pól na planszy (ponownie podaje id, choć nie zamiast nazwy pola)
 - Przywrócono zapis raportu self.path+'/rolls.txt'
 - Naprawiono błąd 0a0
+
+Wersja v0.0.4a:
+- Przerobiono system tworzenia raportów
+- Usunięto tworzenie raportu self.path+'/turns.txt
+- Zmieniono system tworzenia raportów self.path+'/data.txt'
