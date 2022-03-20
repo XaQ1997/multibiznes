@@ -29,3 +29,6 @@ Wersja v0.0.4a:
 - Przerobiono system tworzenia raportów
 - Usunięto tworzenie raportu self.path+'/turns.txt
 - Zmieniono system tworzenia raportów self.path+'/data.txt'
+
+Wersja v0.0.4b:
+- Spore zmiany w kodzie w wyniku walki z błędem 0a1 (niestety nadal nie naprawiono tego błędu)
